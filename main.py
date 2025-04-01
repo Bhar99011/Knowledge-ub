@@ -6,7 +6,7 @@ import google.generativeai as genai
 from datetime import datetime
 
 # Set Google Gemini AI API Key
-GOOGLE_API_KEY = "AIzaSyAroISJ2vUlHCg6hrelebOnX8p0C1XPfUg"
+GOOGLE_API_KEY = ""
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Database Connection
